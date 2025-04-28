@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00000.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2244,0.1377,0.1842,0.08545,0.2018,0.11365,0
+data/test/00001.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2362,0.2075,0.207,0.1483,0.2213,0.1697,0
+data/test/00002.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2505,0.2424,0.222,0.1738,0.2361,0.2008,0
+data/test/00003.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2274,0.1583,0.2018,0.1182,0.2146,0.1372,0
+data/test/00004.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2183,0.147,0.1909,0.10504,0.2032,0.1204,0
+data/test/00005.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.1844,0.0528,0.1567,0.02437,0.1827,0.06097,0
+data/test/00006.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2499,0.2559,0.2251,0.2048,0.2355,0.2158,0
+data/test/00007.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2319,0.1863,0.2096,0.1538,0.218,0.1675,0
+data/test/00008.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2412,0.2078,0.2157,0.1533,0.2251,0.1702,0

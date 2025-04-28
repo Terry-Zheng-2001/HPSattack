@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/openjourney\openjourney_2_0.png,A cat in a tutu dancing to Swan Lake.,0.281,0.282,0.244,0.2292,0.266,0.2573
+data/generated_images/openjourney\openjourney_2_1.png,A cat in a tutu dancing to Swan Lake.,0.298,0.3127,0.2742,0.2544,0.283,0.2915
+data/generated_images/openjourney\openjourney_2_2.png,A cat in a tutu dancing to Swan Lake.,0.291,0.303,0.2534,0.243,0.2751,0.2803
+data/generated_images/openjourney\openjourney_2_3.png,A cat in a tutu dancing to Swan Lake.,0.281,0.2964,0.251,0.2275,0.268,0.264
+data/generated_images/openjourney\openjourney_2_4.png,A cat in a tutu dancing to Swan Lake.,0.2927,0.3093,0.2542,0.252,0.277,0.2896
+data/generated_images/openjourney\openjourney_2_5.png,A cat in a tutu dancing to Swan Lake.,0.2935,0.2932,0.2603,0.2389,0.2751,0.2646
+data/generated_images/openjourney\openjourney_2_6.png,A cat in a tutu dancing to Swan Lake.,0.299,0.313,0.2637,0.2695,0.286,0.298
+data/generated_images/openjourney\openjourney_2_7.png,A cat in a tutu dancing to Swan Lake.,0.2854,0.2793,0.257,0.2291,0.2734,0.26

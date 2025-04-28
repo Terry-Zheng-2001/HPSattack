@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/openjourney\openjourney_3_0.png,Wicked witch casting fireball dressed in green with screaming expression.,0.302,0.3315,0.2764,0.2952,0.289,0.327
+data/generated_images/openjourney\openjourney_3_1.png,Wicked witch casting fireball dressed in green with screaming expression.,0.271,0.2805,0.2502,0.2502,0.259,0.2603
+data/generated_images/openjourney\openjourney_3_2.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3,0.3137,0.2708,0.2788,0.2837,0.3064
+data/generated_images/openjourney\openjourney_3_3.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3054,0.321,0.2776,0.2905,0.2913,0.313
+data/generated_images/openjourney\openjourney_3_4.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3035,0.3362,0.2693,0.2869,0.289,0.3262
+data/generated_images/openjourney\openjourney_3_5.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3086,0.3403,0.2666,0.2954,0.2876,0.3289
+data/generated_images/openjourney\openjourney_3_6.png,Wicked witch casting fireball dressed in green with screaming expression.,0.2883,0.2998,0.266,0.2615,0.2788,0.2834
+data/generated_images/openjourney\openjourney_3_7.png,Wicked witch casting fireball dressed in green with screaming expression.,0.289,0.2937,0.2595,0.243,0.2732,0.2715

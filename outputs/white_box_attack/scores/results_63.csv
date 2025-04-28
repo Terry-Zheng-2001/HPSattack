@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00567.jpg,A vampire wearing Dr. Martens shoes.,0.2485,0.1705,0.2167,0.12317,0.2343,0.1472,63
+data/test/00568.jpg,A vampire wearing Dr. Martens shoes.,0.2688,0.2405,0.2272,0.1714,0.2612,0.2242,63
+data/test/00569.jpg,A vampire wearing Dr. Martens shoes.,0.2803,0.2734,0.261,0.2338,0.2747,0.254,63
+data/test/00570.jpg,A vampire wearing Dr. Martens shoes.,0.2495,0.1815,0.2177,0.1415,0.2405,0.1675,63
+data/test/00571.jpg,A vampire wearing Dr. Martens shoes.,0.2361,0.1326,0.2026,0.0918,0.221,0.1129,63
+data/test/00572.jpg,A vampire wearing Dr. Martens shoes.,0.2388,0.1498,0.1956,0.1083,0.23,0.1388,63
+data/test/00573.jpg,A vampire wearing Dr. Martens shoes.,0.268,0.2168,0.2445,0.1812,0.2588,0.2144,63
+data/test/00574.jpg,A vampire wearing Dr. Martens shoes.,0.2617,0.2078,0.228,0.1537,0.2441,0.1796,63
+data/test/00575.jpg,A vampire wearing Dr. Martens shoes.,0.2515,0.1936,0.2089,0.1654,0.2429,0.1857,63

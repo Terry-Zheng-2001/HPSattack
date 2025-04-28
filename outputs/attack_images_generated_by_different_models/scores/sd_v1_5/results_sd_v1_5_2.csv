@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/sd_v1_5\sd_v1_5_2_0.png,A cat in a tutu dancing to Swan Lake.,0.2622,0.22,0.2079,0.1593,0.236,0.1879
+data/generated_images/sd_v1_5\sd_v1_5_2_1.png,A cat in a tutu dancing to Swan Lake.,0.2932,0.2827,0.2507,0.221,0.2695,0.2576
+data/generated_images/sd_v1_5\sd_v1_5_2_2.png,A cat in a tutu dancing to Swan Lake.,0.2817,0.2808,0.2534,0.2252,0.269,0.2524
+data/generated_images/sd_v1_5\sd_v1_5_2_3.png,A cat in a tutu dancing to Swan Lake.,0.2861,0.2952,0.2532,0.2498,0.2725,0.2805
+data/generated_images/sd_v1_5\sd_v1_5_2_4.png,A cat in a tutu dancing to Swan Lake.,0.2854,0.2788,0.2198,0.1935,0.2654,0.2507
+data/generated_images/sd_v1_5\sd_v1_5_2_5.png,A cat in a tutu dancing to Swan Lake.,0.294,0.2947,0.2379,0.2001,0.2703,0.266
+data/generated_images/sd_v1_5\sd_v1_5_2_6.png,A cat in a tutu dancing to Swan Lake.,0.258,0.2174,0.2241,0.1633,0.2473,0.1952
+data/generated_images/sd_v1_5\sd_v1_5_2_7.png,A cat in a tutu dancing to Swan Lake.,0.2822,0.2686,0.2303,0.2047,0.2588,0.2377

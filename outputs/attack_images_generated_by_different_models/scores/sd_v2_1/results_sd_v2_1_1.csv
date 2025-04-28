@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/sd_v2_1\sd_v2_1_1_0.png,A girl with pink pigtails and face tattoos.,0.2903,0.298,0.2522,0.226,0.2668,0.258
+data/generated_images/sd_v2_1\sd_v2_1_1_1.png,A girl with pink pigtails and face tattoos.,0.2795,0.2827,0.2472,0.2151,0.2617,0.251
+data/generated_images/sd_v2_1\sd_v2_1_1_2.png,A girl with pink pigtails and face tattoos.,0.2783,0.2896,0.2471,0.2263,0.266,0.2686
+data/generated_images/sd_v2_1\sd_v2_1_1_3.png,A girl with pink pigtails and face tattoos.,0.2864,0.3208,0.2576,0.2377,0.27,0.2817
+data/generated_images/sd_v2_1\sd_v2_1_1_4.png,A girl with pink pigtails and face tattoos.,0.288,0.3071,0.2583,0.251,0.275,0.2869
+data/generated_images/sd_v2_1\sd_v2_1_1_5.png,A girl with pink pigtails and face tattoos.,0.283,0.3054,0.2544,0.2438,0.2673,0.27
+data/generated_images/sd_v2_1\sd_v2_1_1_6.png,A girl with pink pigtails and face tattoos.,0.2788,0.2625,0.2483,0.2008,0.2598,0.2263
+data/generated_images/sd_v2_1\sd_v2_1_1_7.png,A girl with pink pigtails and face tattoos.,0.2812,0.2664,0.2316,0.1786,0.2568,0.2318

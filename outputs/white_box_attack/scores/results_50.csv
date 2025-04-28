@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00450.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2578,0.2014,0.235,0.1625,0.2484,0.1821,50
+data/test/00451.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2747,0.2365,0.2576,0.2051,0.2712,0.2323,50
+data/test/00452.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2798,0.2854,0.246,0.2063,0.267,0.2551,50
+data/test/00453.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2532,0.181,0.2191,0.12134,0.233,0.1436,50
+data/test/00454.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2441,0.1676,0.22,0.1192,0.2367,0.147,50
+data/test/00455.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2253,0.11145,0.2024,0.0843,0.2139,0.0956,50
+data/test/00456.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2576,0.1893,0.2092,0.1085,0.2354,0.1373,50
+data/test/00457.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2715,0.2335,0.2428,0.1847,0.2588,0.2124,50
+data/test/00458.jpg,"An anime furry anthro dragon in a deep forest, depicted in a realistic and detailed cel shading style.",0.2876,0.2834,0.257,0.2095,0.2754,0.262,50

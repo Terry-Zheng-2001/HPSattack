@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_0.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3093,0.3213,0.265,0.261,0.289,0.324
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_1.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3015,0.305,0.273,0.2808,0.2852,0.2983
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_2.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3115,0.3235,0.275,0.2947,0.2903,0.3154
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_3.png,Wicked witch casting fireball dressed in green with screaming expression.,0.2812,0.2766,0.2546,0.2396,0.269,0.2651
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_4.png,Wicked witch casting fireball dressed in green with screaming expression.,0.297,0.2976,0.2668,0.254,0.2786,0.2732
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_5.png,Wicked witch casting fireball dressed in green with screaming expression.,0.2822,0.2903,0.2551,0.2522,0.268,0.277
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_6.png,Wicked witch casting fireball dressed in green with screaming expression.,0.2876,0.291,0.2568,0.2483,0.274,0.2788
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_3_7.png,Wicked witch casting fireball dressed in green with screaming expression.,0.3145,0.316,0.2756,0.283,0.291,0.3093

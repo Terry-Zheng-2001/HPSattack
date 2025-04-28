@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/realistic_vision\realistic_vision_1_0.png,A girl with pink pigtails and face tattoos.,0.28,0.309,0.2488,0.2484,0.2727,0.3079
+data/generated_images/realistic_vision\realistic_vision_1_1.png,A girl with pink pigtails and face tattoos.,0.286,0.312,0.258,0.2542,0.2705,0.2937
+data/generated_images/realistic_vision\realistic_vision_1_2.png,A girl with pink pigtails and face tattoos.,0.2966,0.3303,0.2585,0.2668,0.2751,0.3125
+data/generated_images/realistic_vision\realistic_vision_1_3.png,A girl with pink pigtails and face tattoos.,0.2957,0.318,0.2598,0.2676,0.2793,0.3013
+data/generated_images/realistic_vision\realistic_vision_1_4.png,A girl with pink pigtails and face tattoos.,0.2803,0.305,0.251,0.2625,0.2676,0.2915
+data/generated_images/realistic_vision\realistic_vision_1_5.png,A girl with pink pigtails and face tattoos.,0.296,0.334,0.2522,0.2607,0.2754,0.314
+data/generated_images/realistic_vision\realistic_vision_1_6.png,A girl with pink pigtails and face tattoos.,0.2866,0.318,0.2585,0.2676,0.274,0.31
+data/generated_images/realistic_vision\realistic_vision_1_7.png,A girl with pink pigtails and face tattoos.,0.2935,0.328,0.2576,0.2656,0.2766,0.3083

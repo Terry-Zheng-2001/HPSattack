@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_0.png,A cat with two horns on its head.,0.2783,0.2421,0.2421,0.1865,0.2646,0.2283
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_1.png,A cat with two horns on its head.,0.2776,0.2318,0.2312,0.1686,0.2578,0.2085
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_2.png,A cat with two horns on its head.,0.2993,0.2778,0.2418,0.1823,0.2737,0.2465
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_3.png,A cat with two horns on its head.,0.2827,0.2568,0.2505,0.2073,0.268,0.2462
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_4.png,A cat with two horns on its head.,0.2979,0.3,0.2432,0.237,0.2756,0.278
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_5.png,A cat with two horns on its head.,0.276,0.2444,0.2405,0.195,0.2583,0.2222
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_6.png,A cat with two horns on its head.,0.308,0.319,0.249,0.1926,0.2893,0.3013
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_5_7.png,A cat with two horns on its head.,0.2869,0.2542,0.2277,0.1871,0.2598,0.2223

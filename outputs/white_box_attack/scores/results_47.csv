@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00423.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2576,0.1715,0.2056,0.1063,0.2379,0.1473,47
+data/test/00424.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2407,0.1259,0.1984,0.08234,0.231,0.1157,47
+data/test/00425.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2744,0.2576,0.258,0.2124,0.2744,0.25,47
+data/test/00426.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2441,0.1556,0.2019,0.08856,0.2303,0.1332,47
+data/test/00427.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2499,0.153,0.2124,0.0971,0.2396,0.1355,47
+data/test/00428.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2308,0.1118,0.181,0.05734,0.2175,0.1045,47
+data/test/00429.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2488,0.1423,0.2151,0.10364,0.2341,0.1233,47
+data/test/00430.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2642,0.2007,0.2355,0.1625,0.2532,0.1849,47
+data/test/00431.jpg,"Digital anime art of mattress-man with a serious expression in an empty warehouse, highly detailed and spotlighted.",0.2803,0.2737,0.2551,0.2073,0.2712,0.2502,47

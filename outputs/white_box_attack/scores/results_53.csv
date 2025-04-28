@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00477.jpg,"Close-up of Cad Bane, with bad flash.",0.2478,0.1943,0.2048,0.11566,0.228,0.1538,53
+data/test/00478.jpg,"Close-up of Cad Bane, with bad flash.",0.2455,0.1941,0.236,0.1797,0.2445,0.1875,53
+data/test/00479.jpg,"Close-up of Cad Bane, with bad flash.",0.2703,0.2727,0.2457,0.2081,0.2622,0.2382,53
+data/test/00480.jpg,"Close-up of Cad Bane, with bad flash.",0.2422,0.1903,0.218,0.1433,0.2314,0.1661,53
+data/test/00481.jpg,"Close-up of Cad Bane, with bad flash.",0.2374,0.1798,0.2139,0.1462,0.2297,0.1664,53
+data/test/00482.jpg,"Close-up of Cad Bane, with bad flash.",0.213,0.1431,0.1912,0.08966,0.204,0.1131,53
+data/test/00483.jpg,"Close-up of Cad Bane, with bad flash.",0.253,0.2242,0.2402,0.1938,0.248,0.2076,53
+data/test/00484.jpg,"Close-up of Cad Bane, with bad flash.",0.2517,0.2125,0.2302,0.1703,0.2484,0.2004,53
+data/test/00485.jpg,"Close-up of Cad Bane, with bad flash.",0.2319,0.1609,0.196,0.1246,0.2202,0.1373,53

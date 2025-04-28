@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00810.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2742,0.2512,0.2406,0.1925,0.2559,0.2169,90
+data/test/00811.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2893,0.2893,0.2566,0.2222,0.2793,0.2754,90
+data/test/00812.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.286,0.2795,0.2416,0.1923,0.2717,0.2517,90
+data/test/00813.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2566,0.1997,0.2249,0.162,0.2422,0.1846,90
+data/test/00814.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2573,0.2076,0.2229,0.1489,0.2402,0.1714,90
+data/test/00815.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2554,0.2013,0.2028,0.1282,0.2277,0.158,90
+data/test/00816.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2834,0.2668,0.2537,0.206,0.272,0.2507,90
+data/test/00817.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.2556,0.1915,0.2098,0.1274,0.2252,0.1443,90
+data/test/00818.jpg,A white polar bear cub wearing sunglasses sits in a meadow with flowers.,0.3008,0.3262,0.2698,0.2676,0.287,0.2847,90

@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00063.jpg,Chucky doll dressed as Beetlejuice.,0.2338,0.1674,0.1907,0.1024,0.2131,0.1326,7
+data/test/00064.jpg,Chucky doll dressed as Beetlejuice.,0.265,0.2448,0.251,0.2208,0.2605,0.2457,7
+data/test/00065.jpg,Chucky doll dressed as Beetlejuice.,0.2817,0.3052,0.2656,0.2798,0.283,0.305,7
+data/test/00066.jpg,Chucky doll dressed as Beetlejuice.,0.2524,0.2206,0.2251,0.1841,0.2405,0.2046,7
+data/test/00067.jpg,Chucky doll dressed as Beetlejuice.,0.2345,0.183,0.1987,0.12396,0.2163,0.1487,7
+data/test/00068.jpg,Chucky doll dressed as Beetlejuice.,0.2234,0.1428,0.1873,0.1013,0.2103,0.1263,7
+data/test/00069.jpg,Chucky doll dressed as Beetlejuice.,0.2764,0.2903,0.255,0.247,0.266,0.2727,7
+data/test/00070.jpg,Chucky doll dressed as Beetlejuice.,0.2413,0.1929,0.2234,0.1671,0.2251,0.1659,7
+data/test/00071.jpg,Chucky doll dressed as Beetlejuice.,0.2817,0.2737,0.258,0.2507,0.2717,0.2646,7

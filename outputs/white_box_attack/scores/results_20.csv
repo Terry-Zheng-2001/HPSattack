@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00180.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2607,0.1892,0.2213,0.1339,0.2496,0.1674,20
+data/test/00181.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.28,0.2554,0.262,0.2295,0.2773,0.2417,20
+data/test/00182.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.276,0.2416,0.2551,0.2058,0.2659,0.2229,20
+data/test/00183.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2773,0.2244,0.2358,0.1649,0.2542,0.1923,20
+data/test/00184.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2783,0.231,0.2512,0.1823,0.2637,0.2064,20
+data/test/00185.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2407,0.1351,0.1967,0.1047,0.2306,0.1344,20
+data/test/00186.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2656,0.2009,0.2382,0.1687,0.2554,0.1974,20
+data/test/00187.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2715,0.2087,0.2477,0.1649,0.2673,0.1904,20
+data/test/00188.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2837,0.2439,0.2646,0.2094,0.277,0.241,20

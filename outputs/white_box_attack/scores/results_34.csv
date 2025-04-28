@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00306.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2388,0.1656,0.206,0.10944,0.2242,0.1442,34
+data/test/00307.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2615,0.2115,0.248,0.174,0.255,0.1947,34
+data/test/00308.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2573,0.1923,0.2384,0.1635,0.2524,0.1918,34
+data/test/00309.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2278,0.133,0.2114,0.1101,0.2208,0.1285,34
+data/test/00310.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2255,0.1287,0.1787,0.05002,0.2084,0.0964,34
+data/test/00311.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2129,0.08704,0.1752,0.03503,0.2021,0.0748,34
+data/test/00312.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2488,0.1696,0.2252,0.115,0.2444,0.1477,34
+data/test/00313.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2427,0.1631,0.2135,0.1111,0.2336,0.1338,34
+data/test/00314.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2563,0.2014,0.2407,0.1556,0.2507,0.1852,34

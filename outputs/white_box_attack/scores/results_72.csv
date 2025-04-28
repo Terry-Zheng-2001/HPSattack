@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00648.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2234,0.1273,0.1919,0.09125,0.2155,0.1171,72
+data/test/00649.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2443,0.1948,0.215,0.1538,0.2296,0.1683,72
+data/test/00650.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2527,0.2095,0.233,0.1835,0.2463,0.1975,72
+data/test/00651.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2223,0.1271,0.1742,0.073,0.2054,0.09863,72
+data/test/00652.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.231,0.1464,0.1925,0.0863,0.2168,0.12476,72
+data/test/00653.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2258,0.1196,0.2026,0.10223,0.2152,0.11743,72
+data/test/00654.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2466,0.1887,0.2224,0.1564,0.2327,0.1676,72
+data/test/00655.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2444,0.1798,0.2078,0.131,0.2268,0.1554,72
+data/test/00656.jpg,The image is of Pixel Art Huggy Wuggy performing a jumpscare.,0.2463,0.1849,0.2207,0.1495,0.2378,0.1754,72

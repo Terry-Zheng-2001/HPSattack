@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/sd_v1_5\sd_v1_5_8_0.png,"A depiction of Chucky, the killer doll in anime style.",0.2922,0.287,0.2776,0.2656,0.2903,0.2795
+data/generated_images/sd_v1_5\sd_v1_5_8_1.png,"A depiction of Chucky, the killer doll in anime style.",0.2467,0.1796,0.2329,0.1649,0.2478,0.186
+data/generated_images/sd_v1_5\sd_v1_5_8_2.png,"A depiction of Chucky, the killer doll in anime style.",0.2993,0.291,0.2754,0.259,0.2913,0.2827
+data/generated_images/sd_v1_5\sd_v1_5_8_3.png,"A depiction of Chucky, the killer doll in anime style.",0.2612,0.2065,0.2413,0.1813,0.2563,0.1962
+data/generated_images/sd_v1_5\sd_v1_5_8_4.png,"A depiction of Chucky, the killer doll in anime style.",0.2715,0.2522,0.253,0.2211,0.263,0.2316
+data/generated_images/sd_v1_5\sd_v1_5_8_5.png,"A depiction of Chucky, the killer doll in anime style.",0.2803,0.252,0.2705,0.2385,0.2786,0.2487
+data/generated_images/sd_v1_5\sd_v1_5_8_6.png,"A depiction of Chucky, the killer doll in anime style.",0.2886,0.272,0.2642,0.2396,0.2812,0.2537
+data/generated_images/sd_v1_5\sd_v1_5_8_7.png,"A depiction of Chucky, the killer doll in anime style.",0.2644,0.2229,0.2445,0.1957,0.2634,0.2225

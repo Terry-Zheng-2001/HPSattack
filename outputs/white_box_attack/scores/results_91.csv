@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00819.jpg,A plush of a cute sun-eating creature.,0.2656,0.2175,0.2184,0.1219,0.2428,0.1648,91
+data/test/00820.jpg,A plush of a cute sun-eating creature.,0.2695,0.2335,0.2424,0.1737,0.2708,0.2212,91
+data/test/00821.jpg,A plush of a cute sun-eating creature.,0.271,0.2375,0.2449,0.1868,0.259,0.2039,91
+data/test/00822.jpg,A plush of a cute sun-eating creature.,0.265,0.21,0.2412,0.1665,0.253,0.19,91
+data/test/00823.jpg,A plush of a cute sun-eating creature.,0.249,0.1613,0.2156,0.10284,0.2322,0.1323,91
+data/test/00824.jpg,A plush of a cute sun-eating creature.,0.26,0.1913,0.2155,0.1119,0.2423,0.1642,91
+data/test/00825.jpg,A plush of a cute sun-eating creature.,0.2683,0.2119,0.2322,0.1422,0.2502,0.1749,91
+data/test/00826.jpg,A plush of a cute sun-eating creature.,0.281,0.2505,0.2482,0.1833,0.2664,0.216,91
+data/test/00827.jpg,A plush of a cute sun-eating creature.,0.2832,0.281,0.2449,0.1681,0.2751,0.2515,91

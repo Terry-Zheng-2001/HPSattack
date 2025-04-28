@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00729.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2507,0.1683,0.1991,0.0939,0.2333,0.1367,81
+data/test/00730.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2605,0.2064,0.2335,0.1741,0.2524,0.1897,81
+data/test/00731.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2715,0.2434,0.2568,0.2225,0.2683,0.2438,81
+data/test/00732.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2517,0.159,0.2295,0.1304,0.24,0.1433,81
+data/test/00733.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2491,0.1698,0.2239,0.1316,0.2344,0.149,81
+data/test/00734.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2338,0.1135,0.2094,0.0972,0.2223,0.10443,81
+data/test/00735.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2795,0.2766,0.2522,0.2189,0.278,0.261,81
+data/test/00736.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2654,0.2086,0.231,0.146,0.2532,0.1771,81
+data/test/00737.jpg,"A cute little anthropomorphic Tropical fish knight wearing a cape and a crown in short, pale blue armor.",0.2634,0.2019,0.234,0.1606,0.262,0.194,81

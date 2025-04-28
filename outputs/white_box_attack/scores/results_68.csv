@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00612.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2288,0.1571,0.1859,0.0962,0.2119,0.133,68
+data/test/00613.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2417,0.1892,0.2277,0.1826,0.2317,0.1885,68
+data/test/00614.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2622,0.247,0.2441,0.2367,0.2598,0.2585,68
+data/test/00615.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.231,0.153,0.2084,0.11993,0.2203,0.143,68
+data/test/00616.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2263,0.1637,0.1929,0.1152,0.2102,0.1295,68
+data/test/00617.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2146,0.1241,0.2004,0.0953,0.2096,0.1153,68
+data/test/00618.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2603,0.2465,0.2458,0.222,0.2546,0.2386,68
+data/test/00619.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2252,0.1578,0.197,0.12256,0.2168,0.1407,68
+data/test/00620.jpg,A one-eyed dwarf wizard holding a flagon in clean cel shaded vector art.,0.2622,0.2452,0.248,0.2318,0.2607,0.2615,68

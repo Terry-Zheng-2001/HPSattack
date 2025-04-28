@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00792.jpg,Popcorn in mouth.,0.2358,0.1924,0.1985,0.1514,0.217,0.1667,88
+data/test/00793.jpg,Popcorn in mouth.,0.2642,0.2856,0.2319,0.2219,0.2515,0.2595,88
+data/test/00794.jpg,Popcorn in mouth.,0.269,0.3,0.2456,0.2512,0.2568,0.2734,88
+data/test/00795.jpg,Popcorn in mouth.,0.2362,0.1865,0.1982,0.1351,0.219,0.155,88
+data/test/00796.jpg,Popcorn in mouth.,0.2357,0.1968,0.2014,0.1351,0.22,0.1627,88
+data/test/00797.jpg,Popcorn in mouth.,0.2332,0.1611,0.1862,0.10596,0.2137,0.1317,88
+data/test/00798.jpg,Popcorn in mouth.,0.2693,0.302,0.2485,0.2646,0.2683,0.294,88
+data/test/00799.jpg,Popcorn in mouth.,0.2444,0.2128,0.1958,0.1377,0.2205,0.172,88
+data/test/00800.jpg,Popcorn in mouth.,0.2603,0.2703,0.2375,0.2306,0.2532,0.2532,88

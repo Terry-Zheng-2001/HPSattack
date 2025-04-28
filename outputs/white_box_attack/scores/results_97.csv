@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00873.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2595,0.1648,0.1871,0.07074,0.2416,0.1327,97
+data/test/00874.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2852,0.2296,0.2477,0.1791,0.2712,0.2053,97
+data/test/00875.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2788,0.2261,0.253,0.1718,0.2712,0.2096,97
+data/test/00876.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2404,0.1292,0.2109,0.0924,0.2275,0.1121,97
+data/test/00877.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2659,0.1698,0.2231,0.0906,0.2505,0.138,97
+data/test/00878.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2446,0.1183,0.1885,0.0529,0.2172,0.0849,97
+data/test/00879.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2534,0.1515,0.232,0.1152,0.2452,0.1324,97
+data/test/00880.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2487,0.1357,0.1797,0.0669,0.2169,0.0864,97
+data/test/00881.jpg,"A lemon wearing a suit and tie, full body portrait.",0.2817,0.23,0.2556,0.1766,0.2712,0.2056,97

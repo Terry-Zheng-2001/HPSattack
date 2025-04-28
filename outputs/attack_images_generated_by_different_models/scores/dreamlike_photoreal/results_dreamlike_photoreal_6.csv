@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_0.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.316,0.3713,0.2832,0.3184,0.2974,0.359
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_1.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.314,0.3503,0.2703,0.2654,0.291,0.339
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_2.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.314,0.3518,0.2793,0.29,0.2942,0.3347
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_3.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.3105,0.3472,0.2737,0.2776,0.2905,0.3281
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_4.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.3193,0.356,0.2788,0.2842,0.2974,0.3367
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_5.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.3093,0.3513,0.2722,0.2778,0.2856,0.329
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_6.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.3098,0.3442,0.271,0.2742,0.2913,0.3345
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_6_7.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.305,0.3252,0.2727,0.2725,0.2861,0.3135

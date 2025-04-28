@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00270.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2612,0.2078,0.227,0.1558,0.2512,0.177,30
+data/test/00271.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.239,0.1583,0.2144,0.1447,0.2313,0.157,30
+data/test/00272.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2715,0.2725,0.264,0.256,0.2727,0.2605,30
+data/test/00273.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2496,0.2034,0.227,0.1654,0.2385,0.1846,30
+data/test/00274.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2423,0.1714,0.2001,0.1051,0.2214,0.1306,30
+data/test/00275.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2412,0.1714,0.2148,0.1218,0.2305,0.1462,30
+data/test/00276.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2693,0.2524,0.248,0.2181,0.2622,0.2397,30
+data/test/00277.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2673,0.2437,0.2515,0.2103,0.2598,0.2223,30
+data/test/00278.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.279,0.2856,0.267,0.2656,0.2769,0.2866,30

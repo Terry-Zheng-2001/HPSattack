@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00072.jpg,2B from NieR Automata eating a bagel.,0.2375,0.1525,0.1624,0.0666,0.2164,0.1222,8
+data/test/00073.jpg,2B from NieR Automata eating a bagel.,0.266,0.2473,0.2429,0.1741,0.2632,0.2195,8
+data/test/00074.jpg,2B from NieR Automata eating a bagel.,0.272,0.2832,0.2505,0.2175,0.2722,0.267,8
+data/test/00075.jpg,2B from NieR Automata eating a bagel.,0.2396,0.1588,0.2104,0.1081,0.2275,0.1302,8
+data/test/00076.jpg,2B from NieR Automata eating a bagel.,0.2433,0.1647,0.213,0.115,0.2338,0.1416,8
+data/test/00077.jpg,2B from NieR Automata eating a bagel.,0.2306,0.1338,0.1952,0.096,0.2135,0.11804,8
+data/test/00078.jpg,2B from NieR Automata eating a bagel.,0.2615,0.2129,0.235,0.1565,0.25,0.1967,8
+data/test/00079.jpg,2B from NieR Automata eating a bagel.,0.2573,0.1914,0.225,0.1422,0.2412,0.1561,8
+data/test/00080.jpg,2B from NieR Automata eating a bagel.,0.2576,0.2002,0.213,0.1273,0.2505,0.1962,8

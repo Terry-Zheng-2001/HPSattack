@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00846.jpg,An image of an aircraft carrier made of cheese.,0.2484,0.1913,0.2065,0.1093,0.2312,0.1447,94
+data/test/00847.jpg,An image of an aircraft carrier made of cheese.,0.2822,0.2546,0.2301,0.1936,0.2524,0.2152,94
+data/test/00848.jpg,An image of an aircraft carrier made of cheese.,0.2717,0.2474,0.2544,0.2134,0.2673,0.2378,94
+data/test/00849.jpg,An image of an aircraft carrier made of cheese.,0.2598,0.2101,0.2285,0.1509,0.2449,0.1838,94
+data/test/00850.jpg,An image of an aircraft carrier made of cheese.,0.2489,0.188,0.205,0.10144,0.2368,0.1514,94
+data/test/00851.jpg,An image of an aircraft carrier made of cheese.,0.2507,0.1805,0.2096,0.1132,0.2336,0.139,94
+data/test/00852.jpg,An image of an aircraft carrier made of cheese.,0.2656,0.2031,0.2341,0.1526,0.2515,0.1742,94
+data/test/00853.jpg,An image of an aircraft carrier made of cheese.,0.2773,0.2517,0.2435,0.1901,0.2676,0.2308,94
+data/test/00854.jpg,An image of an aircraft carrier made of cheese.,0.2744,0.2563,0.2394,0.1804,0.26,0.2267,94

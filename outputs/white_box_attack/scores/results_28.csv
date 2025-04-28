@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00252.jpg,Totem pole made out of cats.,0.2576,0.2262,0.2256,0.1476,0.247,0.1932,28
+data/test/00253.jpg,Totem pole made out of cats.,0.2812,0.2986,0.256,0.2502,0.2688,0.2732,28
+data/test/00254.jpg,Totem pole made out of cats.,0.2876,0.3262,0.267,0.29,0.2776,0.3066,28
+data/test/00255.jpg,Totem pole made out of cats.,0.27,0.2656,0.2362,0.206,0.2632,0.2566,28
+data/test/00256.jpg,Totem pole made out of cats.,0.266,0.248,0.2354,0.1863,0.2505,0.2153,28
+data/test/00257.jpg,Totem pole made out of cats.,0.246,0.1838,0.1884,0.12103,0.2335,0.1719,28
+data/test/00258.jpg,Totem pole made out of cats.,0.2812,0.302,0.2566,0.2551,0.2737,0.283,28
+data/test/00259.jpg,Totem pole made out of cats.,0.2727,0.2637,0.2512,0.2346,0.262,0.25,28
+data/test/00260.jpg,Totem pole made out of cats.,0.2651,0.2343,0.239,0.1884,0.2566,0.2242,28

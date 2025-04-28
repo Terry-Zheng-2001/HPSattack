@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00234.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2332,0.1592,0.2001,0.10205,0.2153,0.1324,26
+data/test/00235.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2439,0.2041,0.2198,0.146,0.2402,0.1942,26
+data/test/00236.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.251,0.253,0.2357,0.2218,0.2522,0.2397,26
+data/test/00237.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2385,0.1941,0.2144,0.1377,0.2279,0.1677,26
+data/test/00238.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.227,0.1416,0.1997,0.0911,0.2126,0.1141,26
+data/test/00239.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2389,0.2001,0.212,0.1625,0.2272,0.1785,26
+data/test/00240.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2517,0.2397,0.2382,0.2107,0.251,0.229,26
+data/test/00241.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2368,0.1742,0.2253,0.1604,0.2251,0.1565,26
+data/test/00242.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2646,0.2612,0.2463,0.2228,0.2542,0.2603,26

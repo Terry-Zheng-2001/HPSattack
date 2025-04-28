@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00864.jpg,Family assembling missile in living room.,0.2397,0.1748,0.1849,0.09283,0.2144,0.126,96
+data/test/00865.jpg,Family assembling missile in living room.,0.261,0.2375,0.2041,0.1564,0.2357,0.2019,96
+data/test/00866.jpg,Family assembling missile in living room.,0.254,0.2325,0.2168,0.1895,0.2407,0.2128,96
+data/test/00867.jpg,Family assembling missile in living room.,0.22,0.1453,0.1956,0.124,0.2158,0.1359,96
+data/test/00868.jpg,Family assembling missile in living room.,0.2297,0.1598,0.1918,0.1292,0.217,0.1427,96
+data/test/00869.jpg,Family assembling missile in living room.,0.2217,0.132,0.1981,0.1,0.215,0.1305,96
+data/test/00870.jpg,Family assembling missile in living room.,0.2452,0.2059,0.2153,0.1581,0.2343,0.1931,96
+data/test/00871.jpg,Family assembling missile in living room.,0.2625,0.233,0.2347,0.195,0.2507,0.2208,96
+data/test/00872.jpg,Family assembling missile in living room.,0.283,0.2883,0.2472,0.2416,0.2676,0.2769,96

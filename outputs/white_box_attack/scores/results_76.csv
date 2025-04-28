@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00684.jpg,A book about the history of Pepe the Frog.,0.2583,0.1981,0.2322,0.1469,0.2427,0.164,76
+data/test/00685.jpg,A book about the history of Pepe the Frog.,0.2627,0.2158,0.2413,0.1677,0.2524,0.1958,76
+data/test/00686.jpg,A book about the history of Pepe the Frog.,0.262,0.2058,0.2512,0.1946,0.2595,0.2021,76
+data/test/00687.jpg,A book about the history of Pepe the Frog.,0.2465,0.1844,0.2322,0.1635,0.2373,0.1698,76
+data/test/00688.jpg,A book about the history of Pepe the Frog.,0.2251,0.1259,0.1882,0.0897,0.2151,0.1149,76
+data/test/00689.jpg,A book about the history of Pepe the Frog.,0.235,0.1609,0.2217,0.1454,0.2295,0.1572,76
+data/test/00690.jpg,A book about the history of Pepe the Frog.,0.2593,0.2124,0.2472,0.1921,0.254,0.2029,76
+data/test/00691.jpg,A book about the history of Pepe the Frog.,0.2522,0.1964,0.2327,0.1686,0.2443,0.1783,76
+data/test/00692.jpg,A book about the history of Pepe the Frog.,0.2698,0.2617,0.255,0.238,0.2651,0.2546,76

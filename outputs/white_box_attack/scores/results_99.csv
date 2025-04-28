@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00891.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.2793,0.231,0.2627,0.205,0.268,0.2124,99
+data/test/00892.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.296,0.2866,0.2805,0.2632,0.2915,0.277,99
+data/test/00893.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.2908,0.28,0.2722,0.2524,0.288,0.2734,99
+data/test/00894.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.263,0.1869,0.233,0.1425,0.2467,0.1617,99
+data/test/00895.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.2659,0.1948,0.2415,0.1656,0.2517,0.1853,99
+data/test/00896.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.262,0.1807,0.231,0.1202,0.2487,0.1654,99
+data/test/00897.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.2864,0.2512,0.2673,0.2189,0.2837,0.2418,99
+data/test/00898.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.2861,0.2332,0.2646,0.2089,0.2754,0.2257,99
+data/test/00899.jpg,"A sci-fi machine shop in a shipping container, depicted in a manga-style digital painting with intricate details.",0.2876,0.2515,0.269,0.2178,0.28,0.2385,99

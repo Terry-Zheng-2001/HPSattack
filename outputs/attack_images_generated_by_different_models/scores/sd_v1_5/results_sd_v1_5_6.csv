@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/sd_v1_5\sd_v1_5_6_0.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.2935,0.3076,0.2563,0.2205,0.278,0.2705
+data/generated_images/sd_v1_5\sd_v1_5_6_1.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.3008,0.2864,0.2708,0.2435,0.2861,0.282
+data/generated_images/sd_v1_5\sd_v1_5_6_2.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.2834,0.2627,0.2325,0.1562,0.2656,0.2245
+data/generated_images/sd_v1_5\sd_v1_5_6_3.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.2754,0.2551,0.2422,0.1692,0.257,0.2032
+data/generated_images/sd_v1_5\sd_v1_5_6_4.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.3027,0.3113,0.2693,0.2346,0.2898,0.2825
+data/generated_images/sd_v1_5\sd_v1_5_6_5.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.297,0.3025,0.2715,0.2491,0.285,0.2925
+data/generated_images/sd_v1_5\sd_v1_5_6_6.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.303,0.342,0.2712,0.2605,0.2856,0.3008
+data/generated_images/sd_v1_5\sd_v1_5_6_7.png,"A cute anime schoolgirl with a sad face submerged in dark pink and blue water, portrayed in an oil painting style.",0.2778,0.2625,0.253,0.2136,0.2678,0.2478

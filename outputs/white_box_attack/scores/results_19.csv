@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00171.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2428,0.1775,0.1982,0.1073,0.2245,0.1372,19
+data/test/00172.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2722,0.2651,0.2524,0.2163,0.2644,0.2441,19
+data/test/00173.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2727,0.2423,0.2568,0.2076,0.2705,0.2299,19
+data/test/00174.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2458,0.1974,0.2245,0.1571,0.2335,0.172,19
+data/test/00175.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2473,0.1813,0.2069,0.11835,0.2289,0.1477,19
+data/test/00176.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2279,0.1405,0.189,0.0774,0.2083,0.10333,19
+data/test/00177.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2607,0.2369,0.2421,0.2051,0.2455,0.202,19
+data/test/00178.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2666,0.2534,0.2482,0.2155,0.2595,0.2356,19
+data/test/00179.jpg,"A hand-drawn cute gnome holding a pumpkin in an autumn disguise, portrayed in a detailed close-up of the face with warm lighting and high detail.",0.2732,0.282,0.252,0.2218,0.2705,0.2566,19

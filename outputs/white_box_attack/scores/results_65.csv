@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00585.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.2498,0.1791,0.2252,0.12427,0.2399,0.1538,65
+data/test/00586.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.2507,0.1796,0.2251,0.12115,0.2465,0.1725,65
+data/test/00587.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.2766,0.2656,0.2637,0.2365,0.2673,0.2391,65
+data/test/00588.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.254,0.2103,0.2404,0.1794,0.2484,0.1982,65
+data/test/00589.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.2325,0.1504,0.1935,0.09235,0.2145,0.1151,65
+data/test/00590.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.2019,0.0604,0.1775,0.02815,0.1964,0.0628,65
+data/test/00591.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.272,0.2281,0.2632,0.2092,0.2678,0.2196,65
+data/test/00592.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.2698,0.2418,0.254,0.2045,0.2588,0.2189,65
+data/test/00593.jpg,"Portrait of young Jerry Lewis in comic style, colorized and created digitally by four artists.",0.279,0.2365,0.2612,0.2026,0.272,0.2365,65

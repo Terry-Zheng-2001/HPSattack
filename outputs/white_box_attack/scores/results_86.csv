@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00774.jpg,A demon boy smiling while reading a book in a library.,0.258,0.1991,0.1843,0.0974,0.2383,0.158,86
+data/test/00775.jpg,A demon boy smiling while reading a book in a library.,0.2769,0.2942,0.2646,0.273,0.274,0.2854,86
+data/test/00776.jpg,A demon boy smiling while reading a book in a library.,0.289,0.2883,0.2722,0.2642,0.2825,0.2888,86
+data/test/00777.jpg,A demon boy smiling while reading a book in a library.,0.2593,0.2028,0.2217,0.1494,0.2415,0.1677,86
+data/test/00778.jpg,A demon boy smiling while reading a book in a library.,0.2683,0.2272,0.2174,0.139,0.2498,0.1846,86
+data/test/00779.jpg,A demon boy smiling while reading a book in a library.,0.2288,0.1272,0.169,0.069,0.2137,0.1063,86
+data/test/00780.jpg,A demon boy smiling while reading a book in a library.,0.2747,0.2788,0.2595,0.2426,0.2698,0.2686,86
+data/test/00781.jpg,A demon boy smiling while reading a book in a library.,0.2717,0.2291,0.2494,0.1896,0.2612,0.2074,86
+data/test/00782.jpg,A demon boy smiling while reading a book in a library.,0.2805,0.266,0.2634,0.2272,0.277,0.2568,86

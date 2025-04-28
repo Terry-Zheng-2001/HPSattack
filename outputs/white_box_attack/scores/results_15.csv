@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00135.jpg,A cat with two horns on its head.,0.273,0.2415,0.2216,0.1638,0.248,0.1989,15
+data/test/00136.jpg,A cat with two horns on its head.,0.281,0.2776,0.2434,0.2202,0.2593,0.2375,15
+data/test/00137.jpg,A cat with two horns on its head.,0.2976,0.2952,0.2678,0.2272,0.2837,0.2683,15
+data/test/00138.jpg,A cat with two horns on its head.,0.27,0.2358,0.2389,0.1924,0.2534,0.2089,15
+data/test/00139.jpg,A cat with two horns on its head.,0.2573,0.1989,0.201,0.0887,0.233,0.1494,15
+data/test/00140.jpg,A cat with two horns on its head.,0.2598,0.2004,0.2157,0.1235,0.246,0.167,15
+data/test/00141.jpg,A cat with two horns on its head.,0.277,0.2297,0.2102,0.1365,0.2482,0.1836,15
+data/test/00142.jpg,A cat with two horns on its head.,0.2622,0.2073,0.2278,0.1676,0.2455,0.1859,15
+data/test/00143.jpg,A cat with two horns on its head.,0.2695,0.2256,0.2375,0.1917,0.2532,0.2103,15

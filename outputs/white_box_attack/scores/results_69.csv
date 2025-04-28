@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00621.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.2593,0.1962,0.2161,0.1307,0.2382,0.1603,69
+data/test/00622.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.275,0.2255,0.2483,0.164,0.268,0.1945,69
+data/test/00623.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.282,0.235,0.2524,0.1696,0.2808,0.2157,69
+data/test/00624.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.2705,0.2211,0.2338,0.1521,0.2517,0.1865,69
+data/test/00625.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.267,0.2329,0.2273,0.1375,0.2458,0.175,69
+data/test/00626.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.2522,0.1635,0.2097,0.0982,0.2312,0.12317,69
+data/test/00627.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.2896,0.2822,0.2686,0.2384,0.296,0.2756,69
+data/test/00628.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.2725,0.2266,0.2437,0.1703,0.2607,0.1948,69
+data/test/00629.jpg,"A painting of a koala wearing a princess dress and crown, with a confetti background.",0.2957,0.2869,0.2673,0.2233,0.2795,0.2505,69

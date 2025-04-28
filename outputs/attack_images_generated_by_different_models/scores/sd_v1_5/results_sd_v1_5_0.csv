@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/sd_v1_5\sd_v1_5_0_0.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.3125,0.3184,0.2732,0.2603,0.2874,0.2886
+data/generated_images/sd_v1_5\sd_v1_5_0_1.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.2996,0.2883,0.266,0.2272,0.2852,0.2725
+data/generated_images/sd_v1_5\sd_v1_5_0_2.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.2751,0.2225,0.2441,0.1842,0.2615,0.203
+data/generated_images/sd_v1_5\sd_v1_5_0_3.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.2769,0.2299,0.2482,0.1742,0.263,0.2013
+data/generated_images/sd_v1_5\sd_v1_5_0_4.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.2666,0.1925,0.214,0.1263,0.2444,0.1636
+data/generated_images/sd_v1_5\sd_v1_5_0_5.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.2769,0.2279,0.2311,0.1422,0.2534,0.1813
+data/generated_images/sd_v1_5\sd_v1_5_0_6.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.2695,0.2114,0.2471,0.1908,0.2573,0.1978
+data/generated_images/sd_v1_5\sd_v1_5_0_7.png,A portrait of two women with purple hair flying in different directions against a dark background.,0.305,0.267,0.2676,0.2064,0.287,0.2465

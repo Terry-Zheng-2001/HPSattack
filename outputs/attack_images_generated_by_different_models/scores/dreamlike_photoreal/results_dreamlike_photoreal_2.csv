@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_0.png,A cat in a tutu dancing to Swan Lake.,0.2766,0.2761,0.2393,0.1996,0.2654,0.254
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_1.png,A cat in a tutu dancing to Swan Lake.,0.2815,0.2576,0.2373,0.2155,0.26,0.2368
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_2.png,A cat in a tutu dancing to Swan Lake.,0.2927,0.3062,0.258,0.2439,0.272,0.274
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_3.png,A cat in a tutu dancing to Swan Lake.,0.2786,0.2634,0.2406,0.22,0.2617,0.2426
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_4.png,A cat in a tutu dancing to Swan Lake.,0.3005,0.3188,0.26,0.2615,0.2769,0.287
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_5.png,A cat in a tutu dancing to Swan Lake.,0.2712,0.265,0.1826,0.1589,0.2605,0.2474
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_6.png,A cat in a tutu dancing to Swan Lake.,0.277,0.2654,0.2505,0.2135,0.269,0.2524
+data/generated_images/dreamlike_photoreal\dreamlike_photoreal_2_7.png,A cat in a tutu dancing to Swan Lake.,0.288,0.2915,0.236,0.19,0.2607,0.2411

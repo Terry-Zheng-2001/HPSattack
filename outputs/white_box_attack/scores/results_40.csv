@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00360.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2488,0.1693,0.2141,0.1151,0.2286,0.1364,40
+data/test/00361.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2834,0.2905,0.2402,0.2151,0.2637,0.2605,40
+data/test/00362.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2805,0.2412,0.26,0.2219,0.2708,0.2417,40
+data/test/00363.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2554,0.1914,0.2257,0.1451,0.2407,0.169,40
+data/test/00364.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2554,0.1927,0.2142,0.1277,0.2377,0.1544,40
+data/test/00365.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2206,0.0996,0.1635,0.03088,0.2041,0.0831,40
+data/test/00366.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2822,0.255,0.2299,0.1777,0.2676,0.2332,40
+data/test/00367.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.2766,0.2642,0.244,0.2054,0.2615,0.2285,40
+data/test/00368.jpg,"Girl shooting fireballs at a dragon in a battle pose, Madhouse studio anime style.",0.272,0.2505,0.2307,0.1715,0.2588,0.2233,40

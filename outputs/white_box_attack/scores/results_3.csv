@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00027.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.249,0.1786,0.2115,0.1095,0.2351,0.1443,3
+data/test/00028.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.2683,0.2234,0.2415,0.1708,0.2612,0.1971,3
+data/test/00029.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.286,0.2656,0.2725,0.2417,0.2788,0.264,3
+data/test/00030.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.2532,0.1866,0.2308,0.1476,0.2405,0.1693,3
+data/test/00031.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.2546,0.1908,0.2184,0.1343,0.2386,0.1661,3
+data/test/00032.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.2396,0.1387,0.2147,0.1061,0.228,0.12146,3
+data/test/00033.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.2747,0.2252,0.2578,0.1942,0.2703,0.207,3
+data/test/00034.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.2646,0.2166,0.23,0.1467,0.2458,0.1788,3
+data/test/00035.jpg,Ralsei and Asriel from Deltarune eating pizza.,0.279,0.2556,0.2605,0.2346,0.2732,0.2517,3

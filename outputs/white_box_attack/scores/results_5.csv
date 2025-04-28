@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00045.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2388,0.1556,0.217,0.1095,0.2263,0.1313,5
+data/test/00046.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2627,0.2255,0.2128,0.11035,0.2427,0.1648,5
+data/test/00047.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2615,0.1927,0.2378,0.1442,0.2527,0.1798,5
+data/test/00048.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2377,0.1456,0.1827,0.0661,0.2158,0.1072,5
+data/test/00049.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2375,0.1481,0.2007,0.08374,0.2224,0.1197,5
+data/test/00050.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.202,0.06003,0.1707,0.03848,0.1957,0.05606,5
+data/test/00051.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2637,0.2339,0.2262,0.1436,0.2456,0.1783,5
+data/test/00052.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2615,0.2218,0.2339,0.1656,0.2544,0.2025,5
+data/test/00053.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2537,0.2024,0.2283,0.1368,0.2443,0.173,5

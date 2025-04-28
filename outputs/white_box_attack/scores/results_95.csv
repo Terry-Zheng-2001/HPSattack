@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00855.jpg,Scene from Muppet Mad Max-Fury Road.,0.2474,0.2164,0.2113,0.1454,0.2296,0.187,95
+data/test/00856.jpg,Scene from Muppet Mad Max-Fury Road.,0.2712,0.2915,0.2424,0.2332,0.2573,0.2583,95
+data/test/00857.jpg,Scene from Muppet Mad Max-Fury Road.,0.2761,0.3137,0.2499,0.2678,0.2732,0.309,95
+data/test/00858.jpg,Scene from Muppet Mad Max-Fury Road.,0.2435,0.1995,0.212,0.1482,0.226,0.1747,95
+data/test/00859.jpg,Scene from Muppet Mad Max-Fury Road.,0.2253,0.1487,0.1934,0.1005,0.208,0.1201,95
+data/test/00860.jpg,Scene from Muppet Mad Max-Fury Road.,0.2163,0.10956,0.1699,0.0639,0.2046,0.1013,95
+data/test/00861.jpg,Scene from Muppet Mad Max-Fury Road.,0.2435,0.2004,0.2203,0.1638,0.2335,0.1823,95
+data/test/00862.jpg,Scene from Muppet Mad Max-Fury Road.,0.2483,0.2146,0.2318,0.1887,0.2401,0.1957,95
+data/test/00863.jpg,Scene from Muppet Mad Max-Fury Road.,0.2695,0.2766,0.2417,0.2339,0.259,0.2632,95

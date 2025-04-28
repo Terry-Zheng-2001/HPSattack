@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00378.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.263,0.197,0.2285,0.1307,0.2468,0.1682,42
+data/test/00379.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.288,0.2751,0.262,0.2031,0.2798,0.2401,42
+data/test/00380.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.274,0.2457,0.2588,0.2185,0.269,0.2289,42
+data/test/00381.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.2847,0.274,0.2644,0.2262,0.272,0.2408,42
+data/test/00382.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.252,0.1681,0.2214,0.1207,0.2402,0.1422,42
+data/test/00383.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.2319,0.1312,0.2161,0.1092,0.2263,0.12494,42
+data/test/00384.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.285,0.265,0.2456,0.1672,0.2742,0.231,42
+data/test/00385.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.2742,0.2236,0.2534,0.1853,0.2646,0.204,42
+data/test/00386.jpg,Mugshot of Superman with unkempt appearance and green skin.,0.2886,0.2705,0.265,0.2202,0.2754,0.246,42

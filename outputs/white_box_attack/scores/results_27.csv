@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00243.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2546,0.1947,0.2251,0.1345,0.2386,0.159,27
+data/test/00244.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2551,0.1906,0.2354,0.1443,0.242,0.1559,27
+data/test/00245.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.253,0.1827,0.2395,0.1539,0.2472,0.1753,27
+data/test/00246.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2484,0.1915,0.229,0.1466,0.2386,0.1714,27
+data/test/00247.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2378,0.145,0.2089,0.10114,0.2262,0.12415,27
+data/test/00248.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2095,0.08,0.1809,0.06006,0.199,0.08044,27
+data/test/00249.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2676,0.2231,0.25,0.1821,0.261,0.2113,27
+data/test/00250.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2559,0.214,0.2388,0.1716,0.2413,0.1741,27
+data/test/00251.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2625,0.2318,0.2394,0.177,0.2551,0.2197,27

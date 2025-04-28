@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00189.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2423,0.1593,0.1888,0.09344,0.2197,0.1328,21
+data/test/00190.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2727,0.251,0.2283,0.1694,0.2532,0.2133,21
+data/test/00191.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2876,0.3167,0.2512,0.2172,0.2734,0.282,21
+data/test/00192.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2573,0.2039,0.2308,0.1726,0.2407,0.1848,21
+data/test/00193.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2484,0.1754,0.2095,0.1057,0.2308,0.1398,21
+data/test/00194.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2238,0.1002,0.1912,0.07117,0.217,0.1033,21
+data/test/00195.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2844,0.3062,0.2524,0.2399,0.2664,0.263,21
+data/test/00196.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2659,0.2435,0.225,0.1768,0.2429,0.207,21
+data/test/00197.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2825,0.2722,0.2546,0.1959,0.2725,0.2524,21

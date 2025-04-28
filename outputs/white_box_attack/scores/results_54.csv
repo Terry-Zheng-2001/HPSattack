@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00486.jpg,Claymation of Futurama characters.,0.2357,0.1527,0.2104,0.1062,0.2241,0.1292,54
+data/test/00487.jpg,Claymation of Futurama characters.,0.2612,0.2098,0.2336,0.1768,0.2534,0.2035,54
+data/test/00488.jpg,Claymation of Futurama characters.,0.2668,0.252,0.2426,0.2004,0.2668,0.2358,54
+data/test/00489.jpg,Claymation of Futurama characters.,0.2384,0.1584,0.2059,0.1015,0.2255,0.1353,54
+data/test/00490.jpg,Claymation of Futurama characters.,0.2302,0.1609,0.2029,0.0959,0.2216,0.1293,54
+data/test/00491.jpg,Claymation of Futurama characters.,0.2366,0.1532,0.2141,0.11816,0.2241,0.1373,54
+data/test/00492.jpg,Claymation of Futurama characters.,0.268,0.261,0.2413,0.2073,0.2583,0.2452,54
+data/test/00493.jpg,Claymation of Futurama characters.,0.2466,0.2053,0.2168,0.147,0.2384,0.1823,54
+data/test/00494.jpg,Claymation of Futurama characters.,0.2686,0.2375,0.2451,0.1956,0.2598,0.2262,54

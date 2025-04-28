@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00315.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2416,0.1642,0.1766,0.09296,0.2191,0.1399,35
+data/test/00316.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2644,0.2245,0.2393,0.1737,0.2483,0.1882,35
+data/test/00317.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.275,0.2472,0.2456,0.1896,0.2644,0.2075,35
+data/test/00318.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2484,0.1575,0.2156,0.1073,0.2322,0.1279,35
+data/test/00319.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2457,0.1692,0.2103,0.1184,0.2296,0.1421,35
+data/test/00320.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2152,0.05435,0.1794,0.0303,0.2023,0.05484,35
+data/test/00321.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2683,0.2352,0.2289,0.1558,0.2527,0.2073,35
+data/test/00322.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2416,0.1666,0.2173,0.1338,0.2285,0.1499,35
+data/test/00323.jpg,"An image of an emo with dark brown hair in a messy pixie cut, large entirely-black eyes, wearing black clothing and boots.",0.2703,0.2262,0.234,0.1537,0.2532,0.1978,35

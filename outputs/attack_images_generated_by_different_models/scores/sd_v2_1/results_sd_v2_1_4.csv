@@ -1,0 +1,9 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM
+data/generated_images/sd_v2_1\sd_v2_1_4_0.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2666,0.2432,0.2299,0.1853,0.2443,0.2097
+data/generated_images/sd_v2_1\sd_v2_1_4_1.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2783,0.2998,0.2559,0.2659,0.2698,0.2886
+data/generated_images/sd_v2_1\sd_v2_1_4_2.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2832,0.3013,0.2542,0.2507,0.2666,0.2773
+data/generated_images/sd_v2_1\sd_v2_1_4_3.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2732,0.2656,0.2434,0.208,0.2583,0.2411
+data/generated_images/sd_v2_1\sd_v2_1_4_4.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2654,0.259,0.2384,0.2084,0.2522,0.2365
+data/generated_images/sd_v2_1\sd_v2_1_4_5.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2744,0.2769,0.2384,0.2083,0.2524,0.2502
+data/generated_images/sd_v2_1\sd_v2_1_4_6.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2783,0.2686,0.2451,0.2131,0.2603,0.2546
+data/generated_images/sd_v2_1\sd_v2_1_4_7.png,"Link fights an octorok in a cave in a Don Bluth-style from The Legend of Zelda, Breath of the Wild.",0.2837,0.3032,0.259,0.272,0.27,0.2954

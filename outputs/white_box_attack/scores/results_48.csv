@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00432.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.2374,0.1525,0.1681,0.0546,0.207,0.09796,48
+data/test/00433.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.2573,0.2351,0.2172,0.127,0.2346,0.1604,48
+data/test/00434.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.266,0.2395,0.2258,0.1385,0.2463,0.1765,48
+data/test/00435.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.2441,0.16,0.199,0.0795,0.2261,0.1261,48
+data/test/00436.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.2314,0.1509,0.181,0.0701,0.2091,0.1052,48
+data/test/00437.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.2081,0.08655,0.1711,0.04462,0.1979,0.0742,48
+data/test/00438.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.263,0.2229,0.2292,0.1445,0.2491,0.1827,48
+data/test/00439.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.2456,0.1787,0.2024,0.119,0.2203,0.1311,48
+data/test/00440.jpg,"Portrait of an anime maid by Krenz Cushart, Alphonse Mucha, and Ilya Kuvshinov.",0.27,0.2642,0.2484,0.2012,0.2585,0.2246,48

@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00396.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.2556,0.1823,0.2148,0.1318,0.234,0.1527,44
+data/test/00397.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.271,0.2479,0.2462,0.216,0.2559,0.2214,44
+data/test/00398.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.2778,0.266,0.2595,0.2236,0.2751,0.2476,44
+data/test/00399.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.2642,0.1937,0.2391,0.1594,0.2507,0.1721,44
+data/test/00400.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.2544,0.1842,0.2178,0.128,0.2367,0.149,44
+data/test/00401.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.2349,0.133,0.2073,0.1005,0.2206,0.11945,44
+data/test/00402.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.281,0.2683,0.2532,0.218,0.2678,0.2272,44
+data/test/00403.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.264,0.2253,0.2184,0.1509,0.2473,0.1924,44
+data/test/00404.jpg,Miss Piggy dressed in futuristic outfit resembling Leeloo from The Fifth Element.,0.2766,0.2715,0.263,0.2458,0.2708,0.2576,44

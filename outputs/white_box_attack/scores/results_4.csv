@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_1_original,score2_0_attacked_PGD,score2_1_attacked_PGD,score2_0_attacked_FGSM,score2_1_attacked_FGSM,sample_id
+data/test/00036.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2524,0.1636,0.1852,0.0902,0.221,0.1202,4
+data/test/00037.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2595,0.1954,0.2351,0.1644,0.2494,0.1826,4
+data/test/00038.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2708,0.2637,0.2383,0.2205,0.2534,0.2262,4
+data/test/00039.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2593,0.1993,0.2305,0.1477,0.2438,0.1736,4
+data/test/00040.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2368,0.1483,0.1984,0.0835,0.2168,0.1133,4
+data/test/00041.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2336,0.1283,0.1782,0.06836,0.2148,0.1029,4
+data/test/00042.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2664,0.2216,0.2433,0.174,0.2524,0.1849,4
+data/test/00043.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.2664,0.2115,0.2269,0.1525,0.2461,0.1815,4
+data/test/00044.jpg,A portrait of an anime mecha robot with a Japanese town background and a starred night sky.,0.281,0.2966,0.2644,0.27,0.2744,0.2905,4
