@@ -5,7 +5,7 @@ This repository contains research code for attacking the Human Preference Score 
 ## Project Overview
 
 This project focuses on exploring vulnerabilities in the HPS model through various attack methods. It includes implementations of:
-- White-box attacks
+- White-box attacks using FGSM (Fast Gradient Sign Method) and PGD (Projected Gradient Descent)
 - Black-box attacks using NES (Natural Evolution Strategies)
 - Image generation and attack evaluation
 
