@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00180.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2607,0.2583,20
+data/test/00181.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.28,0.2795,20
+data/test/00182.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.276,0.2737,20
+data/test/00183.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2773,0.2703,20
+data/test/00184.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2783,0.2717,20
+data/test/00185.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2407,0.2335,20
+data/test/00186.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2656,0.2612,20
+data/test/00187.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2715,0.2708,20
+data/test/00188.jpg,The image is of an anthropomorphic orange walking on a sidewalk.,0.2837,0.2803,20

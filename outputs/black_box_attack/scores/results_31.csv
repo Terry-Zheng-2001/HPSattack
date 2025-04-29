@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00279.jpg,A gummy chameleon hanging on a tree branch.,0.26,0.257,31
+data/test/00280.jpg,A gummy chameleon hanging on a tree branch.,0.256,0.2537,31
+data/test/00281.jpg,A gummy chameleon hanging on a tree branch.,0.2822,0.2812,31
+data/test/00282.jpg,A gummy chameleon hanging on a tree branch.,0.25,0.247,31
+data/test/00283.jpg,A gummy chameleon hanging on a tree branch.,0.259,0.2573,31
+data/test/00284.jpg,A gummy chameleon hanging on a tree branch.,0.2524,0.2468,31
+data/test/00285.jpg,A gummy chameleon hanging on a tree branch.,0.2598,0.2576,31
+data/test/00286.jpg,A gummy chameleon hanging on a tree branch.,0.2668,0.2644,31
+data/test/00287.jpg,A gummy chameleon hanging on a tree branch.,0.2637,0.2625,31

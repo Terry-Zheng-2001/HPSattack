@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00000.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2244,0.2145,0
+data/test/00001.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2362,0.2301,0
+data/test/00002.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2505,0.2468,0
+data/test/00003.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2274,0.223,0
+data/test/00004.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2183,0.2113,0
+data/test/00005.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.1844,0.1799,0
+data/test/00006.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2499,0.245,0
+data/test/00007.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2319,0.2308,0
+data/test/00008.jpg,Dwayne the Rock Johnson wrestles Jesus Christ in a WWE match in a hell in a cell.,0.2412,0.2389,0

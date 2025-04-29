@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00054.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2435,0.2405,6
+data/test/00055.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2634,0.262,6
+data/test/00056.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2808,0.277,6
+data/test/00057.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2515,0.2461,6
+data/test/00058.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2458,0.2421,6
+data/test/00059.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2261,0.2214,6
+data/test/00060.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2664,0.2668,6
+data/test/00061.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.2612,0.2603,6
+data/test/00062.jpg,A raccoon riding an oversized fox through a forest in a furry art anime still.,0.285,0.2817,6

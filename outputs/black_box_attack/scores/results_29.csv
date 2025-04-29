@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00261.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2642,0.2627,29
+data/test/00262.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.28,0.2776,29
+data/test/00263.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2678,0.2673,29
+data/test/00264.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2588,0.2524,29
+data/test/00265.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.257,0.2517,29
+data/test/00266.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2367,0.2313,29
+data/test/00267.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2847,0.2827,29
+data/test/00268.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2786,0.2766,29
+data/test/00269.jpg,Paul Chuckle bowling on a pirate ship during a storm.,0.2815,0.2788,29

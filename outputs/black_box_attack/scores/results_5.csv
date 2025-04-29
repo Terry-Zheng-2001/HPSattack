@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00045.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2388,0.2356,5
+data/test/00046.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2627,0.2566,5
+data/test/00047.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2615,0.259,5
+data/test/00048.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2377,0.2295,5
+data/test/00049.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2375,0.2356,5
+data/test/00050.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.202,0.1989,5
+data/test/00051.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2637,0.2612,5
+data/test/00052.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2615,0.2598,5
+data/test/00053.jpg,A minimalist portrait of Chloe Grace by Jean Giraud in a comic style.,0.2537,0.2551,5

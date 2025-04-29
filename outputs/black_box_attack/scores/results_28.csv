@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00252.jpg,Totem pole made out of cats.,0.2576,0.2546,28
+data/test/00253.jpg,Totem pole made out of cats.,0.2812,0.2805,28
+data/test/00254.jpg,Totem pole made out of cats.,0.2876,0.2854,28
+data/test/00255.jpg,Totem pole made out of cats.,0.27,0.266,28
+data/test/00256.jpg,Totem pole made out of cats.,0.266,0.261,28
+data/test/00257.jpg,Totem pole made out of cats.,0.246,0.2391,28
+data/test/00258.jpg,Totem pole made out of cats.,0.2812,0.2793,28
+data/test/00259.jpg,Totem pole made out of cats.,0.2727,0.2725,28
+data/test/00260.jpg,Totem pole made out of cats.,0.2651,0.265,28

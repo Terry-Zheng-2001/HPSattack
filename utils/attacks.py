@@ -139,7 +139,7 @@ class NESAttack(BaseAttack):
         B, C, H, W = images.shape
         assert B == 1, "NESAttack only supports batch size 1."
 
-        for step in tqdm(range(self.steps), desc="NES Attack"):
+        for step in range(self.steps):
             images_unnorm.requires_grad = False
 
             grad_estimate = torch.zeros_like(images_unnorm)
@@ -155,9 +155,7 @@ class NESAttack(BaseAttack):
                 # - epsilon direction
                 minus_images = torch.clamp(images_unnorm - self.fd_eps * noise, 0, 1)
                 minus_score = self.model.score(self.normalize(minus_images), prompt)
-                print(plus_score - minus_score)
                 grad_estimate += (plus_score - minus_score) * noise
-
             grad_estimate /= (2 * self.fd_eps * self.nes_samples)
 
             # Gradient descent step

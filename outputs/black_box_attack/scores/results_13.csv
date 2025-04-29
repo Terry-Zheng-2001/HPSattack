@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00117.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2532,0.2483,13
+data/test/00118.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.262,0.2607,13
+data/test/00119.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2783,0.2776,13
+data/test/00120.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2408,0.2402,13
+data/test/00121.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2411,0.2362,13
+data/test/00122.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2257,0.2247,13
+data/test/00123.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2472,0.2416,13
+data/test/00124.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2751,0.2747,13
+data/test/00125.jpg,Wicked witch casting fireball dressed in green with screaming expression.,0.2952,0.2893,13

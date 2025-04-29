@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00243.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2546,0.2542,27
+data/test/00244.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2551,0.2542,27
+data/test/00245.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.253,0.252,27
+data/test/00246.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2484,0.2471,27
+data/test/00247.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2378,0.2361,27
+data/test/00248.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2095,0.2063,27
+data/test/00249.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2676,0.2666,27
+data/test/00250.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2559,0.2566,27
+data/test/00251.jpg,Rosario Dawson minimalist portrait by Jean Giraud in a comic book style.,0.2625,0.2615,27

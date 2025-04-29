@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00198.jpg,A spoon dressed up with eyes and a smile.,0.2622,0.2605,22
+data/test/00199.jpg,A spoon dressed up with eyes and a smile.,0.2686,0.2676,22
+data/test/00200.jpg,A spoon dressed up with eyes and a smile.,0.279,0.276,22
+data/test/00201.jpg,A spoon dressed up with eyes and a smile.,0.2499,0.2433,22
+data/test/00202.jpg,A spoon dressed up with eyes and a smile.,0.2605,0.2559,22
+data/test/00203.jpg,A spoon dressed up with eyes and a smile.,0.25,0.2437,22
+data/test/00204.jpg,A spoon dressed up with eyes and a smile.,0.269,0.2683,22
+data/test/00205.jpg,A spoon dressed up with eyes and a smile.,0.267,0.265,22
+data/test/00206.jpg,A spoon dressed up with eyes and a smile.,0.2917,0.2952,22

@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00225.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2311,0.2246,25
+data/test/00226.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2566,0.2502,25
+data/test/00227.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2451,0.2435,25
+data/test/00228.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2249,0.2173,25
+data/test/00229.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2294,0.2267,25
+data/test/00230.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2152,0.2069,25
+data/test/00231.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2443,0.238,25
+data/test/00232.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2432,0.241,25
+data/test/00233.jpg,"The image features artwork in the style of Neon Genesis Evangelion, with a colorful anime design of John Key.",0.2489,0.2473,25

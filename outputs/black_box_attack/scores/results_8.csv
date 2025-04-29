@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00072.jpg,2B from NieR Automata eating a bagel.,0.2375,0.2318,8
+data/test/00073.jpg,2B from NieR Automata eating a bagel.,0.266,0.27,8
+data/test/00074.jpg,2B from NieR Automata eating a bagel.,0.272,0.2747,8
+data/test/00075.jpg,2B from NieR Automata eating a bagel.,0.2396,0.2365,8
+data/test/00076.jpg,2B from NieR Automata eating a bagel.,0.2433,0.2404,8
+data/test/00077.jpg,2B from NieR Automata eating a bagel.,0.2306,0.2246,8
+data/test/00078.jpg,2B from NieR Automata eating a bagel.,0.2615,0.2588,8
+data/test/00079.jpg,2B from NieR Automata eating a bagel.,0.2573,0.2568,8
+data/test/00080.jpg,2B from NieR Automata eating a bagel.,0.2576,0.2544,8

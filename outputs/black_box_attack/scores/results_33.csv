@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00297.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2605,0.257,33
+data/test/00298.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2869,0.286,33
+data/test/00299.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2888,0.2817,33
+data/test/00300.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2744,0.2695,33
+data/test/00301.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2637,0.2578,33
+data/test/00302.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.252,0.2446,33
+data/test/00303.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2917,0.288,33
+data/test/00304.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.264,0.263,33
+data/test/00305.jpg,"An anime girl is riding a bicycle in Akihabara, resembling the style seen in Studio Ghibli films, and the depiction is detailed.",0.2874,0.2832,33

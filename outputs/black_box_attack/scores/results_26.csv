@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00234.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2332,0.2319,26
+data/test/00235.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2439,0.2433,26
+data/test/00236.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.251,0.252,26
+data/test/00237.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2385,0.2357,26
+data/test/00238.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.227,0.2235,26
+data/test/00239.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2389,0.2334,26
+data/test/00240.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2517,0.255,26
+data/test/00241.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2368,0.2355,26
+data/test/00242.jpg,"A still of Doraemon from ""Shaun the Sheep"" by Aardman Animation.",0.2646,0.2603,26

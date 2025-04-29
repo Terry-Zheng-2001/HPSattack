@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00306.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2388,0.237,34
+data/test/00307.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2615,0.262,34
+data/test/00308.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2573,0.2544,34
+data/test/00309.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2278,0.2233,34
+data/test/00310.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2255,0.2196,34
+data/test/00311.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2129,0.2078,34
+data/test/00312.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2488,0.247,34
+data/test/00313.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2427,0.2435,34
+data/test/00314.jpg,A full body portrait of Andre the Giant in the style of Justin Roiland.,0.2563,0.2563,34

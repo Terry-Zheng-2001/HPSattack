@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00270.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2612,0.2578,30
+data/test/00271.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.239,0.2318,30
+data/test/00272.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2715,0.2734,30
+data/test/00273.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2496,0.2468,30
+data/test/00274.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2423,0.2369,30
+data/test/00275.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2412,0.2378,30
+data/test/00276.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2693,0.266,30
+data/test/00277.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.2673,0.2676,30
+data/test/00278.jpg,Cartoonish serpent cephalopod mutants emerge from a fiery hell.,0.279,0.277,30

@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00135.jpg,A cat with two horns on its head.,0.273,0.267,15
+data/test/00136.jpg,A cat with two horns on its head.,0.281,0.2761,15
+data/test/00137.jpg,A cat with two horns on its head.,0.2976,0.291,15
+data/test/00138.jpg,A cat with two horns on its head.,0.27,0.2683,15
+data/test/00139.jpg,A cat with two horns on its head.,0.2573,0.2479,15
+data/test/00140.jpg,A cat with two horns on its head.,0.2598,0.2573,15
+data/test/00141.jpg,A cat with two horns on its head.,0.277,0.2725,15
+data/test/00142.jpg,A cat with two horns on its head.,0.2622,0.2595,15
+data/test/00143.jpg,A cat with two horns on its head.,0.2695,0.2683,15

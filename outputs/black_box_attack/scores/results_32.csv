@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00288.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2394,0.238,32
+data/test/00289.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2365,0.2335,32
+data/test/00290.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2546,0.2527,32
+data/test/00291.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2195,0.2094,32
+data/test/00292.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2386,0.2324,32
+data/test/00293.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2576,0.2495,32
+data/test/00294.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2333,0.2317,32
+data/test/00295.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2483,0.2472,32
+data/test/00296.jpg,"A portrait of Nyan Cat, styled after Annie Leibovitz's dramatic photography.",0.2534,0.2527,32

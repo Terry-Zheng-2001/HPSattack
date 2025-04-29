@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00162.jpg,"A depiction of Chucky, the killer doll in anime style.",0.263,0.255,18
+data/test/00163.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2917,0.2935,18
+data/test/00164.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2944,0.2922,18
+data/test/00165.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2678,0.2654,18
+data/test/00166.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2554,0.2522,18
+data/test/00167.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2302,0.2266,18
+data/test/00168.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2727,0.2722,18
+data/test/00169.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2737,0.273,18
+data/test/00170.jpg,"A depiction of Chucky, the killer doll in anime style.",0.2693,0.268,18

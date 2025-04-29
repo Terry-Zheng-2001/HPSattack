@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00063.jpg,Chucky doll dressed as Beetlejuice.,0.2338,0.2319,7
+data/test/00064.jpg,Chucky doll dressed as Beetlejuice.,0.265,0.2642,7
+data/test/00065.jpg,Chucky doll dressed as Beetlejuice.,0.2817,0.281,7
+data/test/00066.jpg,Chucky doll dressed as Beetlejuice.,0.2524,0.2496,7
+data/test/00067.jpg,Chucky doll dressed as Beetlejuice.,0.2345,0.2303,7
+data/test/00068.jpg,Chucky doll dressed as Beetlejuice.,0.2234,0.2194,7
+data/test/00069.jpg,Chucky doll dressed as Beetlejuice.,0.2764,0.2722,7
+data/test/00070.jpg,Chucky doll dressed as Beetlejuice.,0.2413,0.2402,7
+data/test/00071.jpg,Chucky doll dressed as Beetlejuice.,0.2817,0.277,7

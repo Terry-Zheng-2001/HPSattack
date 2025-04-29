@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00216.jpg,a papaya fruit dressed as a sailor.,0.2437,0.2427,24
+data/test/00217.jpg,a papaya fruit dressed as a sailor.,0.2424,0.2413,24
+data/test/00218.jpg,a papaya fruit dressed as a sailor.,0.2546,0.2537,24
+data/test/00219.jpg,a papaya fruit dressed as a sailor.,0.239,0.2385,24
+data/test/00220.jpg,a papaya fruit dressed as a sailor.,0.2427,0.2399,24
+data/test/00221.jpg,a papaya fruit dressed as a sailor.,0.2413,0.2389,24
+data/test/00222.jpg,a papaya fruit dressed as a sailor.,0.2455,0.2452,24
+data/test/00223.jpg,a papaya fruit dressed as a sailor.,0.26,0.2573,24
+data/test/00224.jpg,a papaya fruit dressed as a sailor.,0.2666,0.2666,24

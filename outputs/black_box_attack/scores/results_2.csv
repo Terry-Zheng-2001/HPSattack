@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00018.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2534,0.2507,2
+data/test/00019.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2651,0.265,2
+data/test/00020.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2698,0.27,2
+data/test/00021.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2617,0.2563,2
+data/test/00022.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2588,0.2556,2
+data/test/00023.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2131,0.2142,2
+data/test/00024.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2612,0.2563,2
+data/test/00025.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2703,0.2688,2
+data/test/00026.jpg,A Wojak looking over a sea of memes from a cliff on 4chan.,0.2698,0.2698,2

@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00090.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.273,0.269,10
+data/test/00091.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.2861,0.2852,10
+data/test/00092.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.274,0.275,10
+data/test/00093.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.2725,0.2683,10
+data/test/00094.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.2695,0.2666,10
+data/test/00095.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.2479,0.2322,10
+data/test/00096.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.2922,0.2898,10
+data/test/00097.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.2788,0.2734,10
+data/test/00098.jpg,A portrait of two women with purple hair flying in different directions against a dark background.,0.299,0.2954,10

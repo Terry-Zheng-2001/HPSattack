@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00189.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2423,0.2327,21
+data/test/00190.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2727,0.2703,21
+data/test/00191.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2876,0.2866,21
+data/test/00192.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2573,0.2556,21
+data/test/00193.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2484,0.2471,21
+data/test/00194.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2238,0.2172,21
+data/test/00195.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2844,0.281,21
+data/test/00196.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2659,0.2625,21
+data/test/00197.jpg,16-year-old teenager wearing a white bear-ear hat with a smirk on their face.,0.2825,0.2805,21

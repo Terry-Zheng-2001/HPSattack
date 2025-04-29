@@ -1,0 +1,10 @@
+image_path,prompt,score2_0_original,score2_0_attacked_NES,sample_id
+data/test/00108.jpg,A cat in a tutu dancing to Swan Lake.,0.276,0.2703,12
+data/test/00109.jpg,A cat in a tutu dancing to Swan Lake.,0.2722,0.2695,12
+data/test/00110.jpg,A cat in a tutu dancing to Swan Lake.,0.273,0.2722,12
+data/test/00111.jpg,A cat in a tutu dancing to Swan Lake.,0.2864,0.28,12
+data/test/00112.jpg,A cat in a tutu dancing to Swan Lake.,0.2559,0.252,12
+data/test/00113.jpg,A cat in a tutu dancing to Swan Lake.,0.2588,0.2517,12
+data/test/00114.jpg,A cat in a tutu dancing to Swan Lake.,0.244,0.2429,12
+data/test/00115.jpg,A cat in a tutu dancing to Swan Lake.,0.264,0.2642,12
+data/test/00116.jpg,A cat in a tutu dancing to Swan Lake.,0.2632,0.2625,12
